@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Printerest</string>
+    <string name="title_activity_forget_password">ForgetPassword</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_album">Album</string>
+    <string name="title_account">Account</string>
+    <string name="like_images">Like images</string>
+    <string name="your_images">Your images</string>
+    <string name="tab_explore">Explore</string>
+    <string name="tab_search">Search</string>
+    <string name="tab_add">Add</string>
+
+    <string-array name="tag">
+        <item>None</item>
+        <item>Giải trí</item>
+        <item>Khoa học</item>
+        <item>Xã hội</item>
+        <item>Con người</item>
+    </string-array>
+</resources>

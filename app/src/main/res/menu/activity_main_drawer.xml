@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/title_home" />
+        <item
+            android:icon="@drawable/ic_like"
+            android:id="@+id/nav_like_images"
+            android:title="@string/like_images" />
+        <item
+            android:icon="@drawable/ic_album"
+            android:id="@+id/nav_your_images"
+            android:title="@string/your_images" />
+        <item
+            android:id="@+id/nav_account"
+            android:icon="@drawable/ic_account"
+            android:title="@string/title_account" />
+    </group>
+
+</menu>
